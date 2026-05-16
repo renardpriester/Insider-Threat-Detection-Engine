@@ -243,8 +243,9 @@ st.subheader("Impossible Travel Threat Map")
 
 travel_df = df[
     df["alert_type"] == "Impossible Travel"
+    
 ].copy()
-
+st.write(travel_df)
 ...
 # Threat Investigation Panel
 st.divider()

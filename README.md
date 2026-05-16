@@ -89,6 +89,28 @@ requirements.txt        # Project dependencies
 
 # Screenshots
 
+## Login Screen
+
+![Login](screenshots/login.png)
+
+---
+
+## Main SOC Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Impossible Travel Threat Mapping
+
+![Threat Map](screenshots/map.png)
+
+---
+
+## Investigation Management
+
+![Investigations](screenshots/investigations.png)
+
 (Screenshots will be added here)
 
 ---
